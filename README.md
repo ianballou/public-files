@@ -1,1 +1,1 @@
-# A collection of files that I need public access to
+# A collection of files that I need public access to.
